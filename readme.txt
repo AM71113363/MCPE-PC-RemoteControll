@@ -28,7 +28,7 @@ MOUSE SETTINGS:
 KEYBOARD FEATURES:
 1.High jump
 2.Speed
-3.SlowFallin
+3.SlowFalling
 4.Third person view( like controllers do)
 5.Hide/Show GUI.
 

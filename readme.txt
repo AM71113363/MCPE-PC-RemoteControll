@@ -46,3 +46,5 @@ MY FAVORITE FEATURES THAT I CAN NOT SHARE:
 PS: I made a short video. https://mobile.twitter.com/AM71113363
 
 
+You can mirror your phone to TV, connect Wireless mouse&keyboard to PC
+Now you can play like Minecraft JAVA players do(+mods).

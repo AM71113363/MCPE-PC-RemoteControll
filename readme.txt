@@ -1,8 +1,11 @@
 Waiting...
 For Blocklauncher to update.
 
-How it Works:
+How it Works: [ Phone and PC must be connected to the same network ]
 Run MCPE-Remote.exe on your PC.
+1.Input the Phone IP.
+2.Click [ Start ]
+3.The App will stop only when the Player leaves the game.
 
 Add the script to your ModPE.
 CMD commands:
@@ -41,3 +44,5 @@ MY FAVORITE FEATURES THAT I CAN NOT SHARE:
 
 
 PS: I made a short video. https://mobile.twitter.com/AM71113363
+
+

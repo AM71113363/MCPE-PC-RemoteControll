@@ -4,7 +4,7 @@ For Blocklauncher to update.
 How it Works:
 Run MCPE-Remote.exe on your PC.
 
-Add the script to your ModPE favorite script.
+Add the script to your ModPE.
 CMD commands:
 "\start"
 "\stop"

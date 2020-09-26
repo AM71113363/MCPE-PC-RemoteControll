@@ -5,7 +5,8 @@ How it Works: [ Phone and PC must be connected to the same network ]
 Run MCPE-Remote.exe on your PC.
 1.Input the Phone IP.
 2.Click [ Start ]
-3.The App will stop only when the Player leaves the game.
+3.The App will stop only when the Player leaves the game,
+  or when you press [ ESC ] key.
 
 Add the script to your ModPE.
 CMD commands:
@@ -34,6 +35,7 @@ KEYBOARD FEATURES:
 3.SlowFalling
 4.Third person view( like controllers do)
 5.Hide/Show GUI.
+6.Chat from PC. currently Beta, some servers don't support Server.sendChat().
 
 MY FAVORITE FEATURES THAT I CAN NOT SHARE:
 1.Flying ( online servers )

@@ -22,9 +22,9 @@ MOUSE SETTINGS:
                    LongClick for DestroyBlock.
       RightClick:  AutoClick.
 3.Middle-Click:  Teleports you behind walls or UP&DOWN
-                 example: You have an underground room
-                          Just look down and CLICK to get in.
-                          Look up and CLICK to get out.
+      example: You have an underground room
+               Just look down and CLICK to get in.
+               Look up and CLICK to get out.
                       
 
 
